@@ -1,0 +1,685 @@
+﻿{
+    "features":  [
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  0,
+                                            "name":  "T0",
+                                            "id":  "tp_0",
+                                            "ts":  1710000000
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.03,
+                                                              22.524
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  1,
+                                            "name":  "T1",
+                                            "id":  "tp_1",
+                                            "ts":  1710000060
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.034888,
+                                                              22.525589
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  2,
+                                            "name":  "T2",
+                                            "id":  "tp_2",
+                                            "ts":  1710000120
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.039243,
+                                                              22.526788
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  3,
+                                            "name":  "T3",
+                                            "id":  "tp_3",
+                                            "ts":  1710000180
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.042656,
+                                                              22.527657
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  4,
+                                            "name":  "T4",
+                                            "id":  "tp_4",
+                                            "ts":  1710000240
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.044931,
+                                                              22.528292
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  5,
+                                            "name":  "T5",
+                                            "id":  "tp_5",
+                                            "ts":  1710000300
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.046136,
+                                                              22.528813
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  6,
+                                            "name":  "T6",
+                                            "id":  "tp_6",
+                                            "ts":  1710000360
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.046581,
+                                                              22.529351
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  7,
+                                            "name":  "T7",
+                                            "id":  "tp_7",
+                                            "ts":  1710000420
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.046752,
+                                                              22.530034
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  8,
+                                            "name":  "T8",
+                                            "id":  "tp_8",
+                                            "ts":  1710000480
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.047197,
+                                                              22.530978
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  9,
+                                            "name":  "T9",
+                                            "id":  "tp_9",
+                                            "ts":  1710000540
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.048402,
+                                                              22.53227
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  10,
+                                            "name":  "T10",
+                                            "id":  "tp_10",
+                                            "ts":  1710000600
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.050677,
+                                                              22.533962
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  11,
+                                            "name":  "T11",
+                                            "id":  "tp_11",
+                                            "ts":  1710000660
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.05409,
+                                                              22.536064
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  12,
+                                            "name":  "T12",
+                                            "id":  "tp_12",
+                                            "ts":  1710000720
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.058446,
+                                                              22.538544
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  13,
+                                            "name":  "T13",
+                                            "id":  "tp_13",
+                                            "ts":  1710000780
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.063333,
+                                                              22.541333
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  14,
+                                            "name":  "T14",
+                                            "id":  "tp_14",
+                                            "ts":  1710000840
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.068221,
+                                                              22.544328
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  15,
+                                            "name":  "T15",
+                                            "id":  "tp_15",
+                                            "ts":  1710000900
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.072576,
+                                                              22.547405
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  16,
+                                            "name":  "T16",
+                                            "id":  "tp_16",
+                                            "ts":  1710000960
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.075989,
+                                                              22.550433
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  17,
+                                            "name":  "T17",
+                                            "id":  "tp_17",
+                                            "ts":  1710001020
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.078265,
+                                                              22.553284
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  18,
+                                            "name":  "T18",
+                                            "id":  "tp_18",
+                                            "ts":  1710001080
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079469,
+                                                              22.55585
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  19,
+                                            "name":  "T19",
+                                            "id":  "tp_19",
+                                            "ts":  1710001140
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079915,
+                                                              22.558051
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  20,
+                                            "name":  "T20",
+                                            "id":  "tp_20",
+                                            "ts":  1710001200
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.080085,
+                                                              22.559846
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  21,
+                                            "name":  "T21",
+                                            "id":  "tp_21",
+                                            "ts":  1710001260
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.080531,
+                                                              22.561234
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  22,
+                                            "name":  "T22",
+                                            "id":  "tp_22",
+                                            "ts":  1710001320
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.081735,
+                                                              22.562258
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  23,
+                                            "name":  "T23",
+                                            "id":  "tp_23",
+                                            "ts":  1710001380
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.084011,
+                                                              22.562997
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  24,
+                                            "name":  "T24",
+                                            "id":  "tp_24",
+                                            "ts":  1710001440
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.087424,
+                                                              22.563559
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  25,
+                                            "name":  "T25",
+                                            "id":  "tp_25",
+                                            "ts":  1710001500
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.091779,
+                                                              22.564072
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  26,
+                                            "name":  "T26",
+                                            "id":  "tp_26",
+                                            "ts":  1710001560
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.096667,
+                                                              22.564667
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  27,
+                                            "name":  "T27",
+                                            "id":  "tp_27",
+                                            "ts":  1710001620
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.101554,
+                                                              22.565467
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  28,
+                                            "name":  "T28",
+                                            "id":  "tp_28",
+                                            "ts":  1710001680
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.10591,
+                                                              22.566576
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  29,
+                                            "name":  "T29",
+                                            "id":  "tp_29",
+                                            "ts":  1710001740
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.109323,
+                                                              22.568064
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  30,
+                                            "name":  "T30",
+                                            "id":  "tp_30",
+                                            "ts":  1710001800
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.111598,
+                                                              22.569962
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  31,
+                                            "name":  "T31",
+                                            "id":  "tp_31",
+                                            "ts":  1710001860
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112803,
+                                                              22.57226
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  32,
+                                            "name":  "T32",
+                                            "id":  "tp_32",
+                                            "ts":  1710001920
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.113248,
+                                                              22.574906
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  33,
+                                            "name":  "T33",
+                                            "id":  "tp_33",
+                                            "ts":  1710001980
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.113419,
+                                                              22.577812
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  34,
+                                            "name":  "T34",
+                                            "id":  "tp_34",
+                                            "ts":  1710002040
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.113864,
+                                                              22.580865
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  35,
+                                            "name":  "T35",
+                                            "id":  "tp_35",
+                                            "ts":  1710002100
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.115069,
+                                                              22.583933
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  36,
+                                            "name":  "T36",
+                                            "id":  "tp_36",
+                                            "ts":  1710002160
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.117344,
+                                                              22.586888
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  37,
+                                            "name":  "T37",
+                                            "id":  "tp_37",
+                                            "ts":  1710002220
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.120757,
+                                                              22.589608
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  38,
+                                            "name":  "T38",
+                                            "id":  "tp_38",
+                                            "ts":  1710002280
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.125112,
+                                                              22.591999
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "traj_id":  "t0",
+                                            "seq":  39,
+                                            "name":  "T39",
+                                            "id":  "tp_39",
+                                            "ts":  1710002340
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.13,
+                                                              22.594
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     }
+                 ],
+    "type":  "FeatureCollection"
+}

@@ -1,0 +1,1205 @@
+﻿{
+    "features":  [
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 0",
+                                            "id":  "poi_0"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.030504,
+                                                              22.522923
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 1",
+                                            "id":  "poi_1"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.034956,
+                                                              22.524594
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 2",
+                                            "id":  "poi_2"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.039916,
+                                                              22.526827
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 3",
+                                            "id":  "poi_3"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.04344,
+                                                              22.526861
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 4",
+                                            "id":  "poi_4"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.044948,
+                                                              22.527753
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 5",
+                                            "id":  "poi_5"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.045417,
+                                                              22.528865
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 6",
+                                            "id":  "poi_6"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.047523,
+                                                              22.529583
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 7",
+                                            "id":  "poi_7"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.045709,
+                                                              22.528804
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 8",
+                                            "id":  "poi_8"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.048146,
+                                                              22.531098
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 9",
+                                            "id":  "poi_9"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.049035,
+                                                              22.531213
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 10",
+                                            "id":  "poi_10"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.051255,
+                                                              22.534011
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 11",
+                                            "id":  "poi_11"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.052715,
+                                                              22.535489
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 12",
+                                            "id":  "poi_12"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.059409,
+                                                              22.537056
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 13",
+                                            "id":  "poi_13"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.064249,
+                                                              22.542078
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 14",
+                                            "id":  "poi_14"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.067168,
+                                                              22.542907
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 15",
+                                            "id":  "poi_15"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.073421,
+                                                              22.547784
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 16",
+                                            "id":  "poi_16"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.075239,
+                                                              22.55125
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 17",
+                                            "id":  "poi_17"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.078709,
+                                                              22.552215
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 18",
+                                            "id":  "poi_18"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079783,
+                                                              22.555898
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 19",
+                                            "id":  "poi_19"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079676,
+                                                              22.558671
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 20",
+                                            "id":  "poi_20"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.07924,
+                                                              22.558386
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 21",
+                                            "id":  "poi_21"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079833,
+                                                              22.55994
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 22",
+                                            "id":  "poi_22"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.080448,
+                                                              22.56215
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 23",
+                                            "id":  "poi_23"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.084904,
+                                                              22.562815
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 24",
+                                            "id":  "poi_24"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.087423,
+                                                              22.562086
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 25",
+                                            "id":  "poi_25"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.090318,
+                                                              22.562581
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 26",
+                                            "id":  "poi_26"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.097129,
+                                                              22.563271
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 27",
+                                            "id":  "poi_27"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.102841,
+                                                              22.565351
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 28",
+                                            "id":  "poi_28"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.10626,
+                                                              22.565209
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 29",
+                                            "id":  "poi_29"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.108249,
+                                                              22.567875
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 30",
+                                            "id":  "poi_30"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.111695,
+                                                              22.569664
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 31",
+                                            "id":  "poi_31"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.114025,
+                                                              22.57252
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 32",
+                                            "id":  "poi_32"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.111806,
+                                                              22.576051
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 33",
+                                            "id":  "poi_33"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112918,
+                                                              22.578444
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 34",
+                                            "id":  "poi_34"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112673,
+                                                              22.580721
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 35",
+                                            "id":  "poi_35"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.115897,
+                                                              22.582879
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 36",
+                                            "id":  "poi_36"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.116491,
+                                                              22.587163
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 37",
+                                            "id":  "poi_37"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.122218,
+                                                              22.590407
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 38",
+                                            "id":  "poi_38"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.125757,
+                                                              22.591367
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 39",
+                                            "id":  "poi_39"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.131469,
+                                                              22.594452
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 40",
+                                            "id":  "poi_40"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.029536,
+                                                              22.525287
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 41",
+                                            "id":  "poi_41"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.034047,
+                                                              22.524885
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 42",
+                                            "id":  "poi_42"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.038391,
+                                                              22.527065
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 43",
+                                            "id":  "poi_43"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.041437,
+                                                              22.529137
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 44",
+                                            "id":  "poi_44"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.043749,
+                                                              22.527756
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 45",
+                                            "id":  "poi_45"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.046889,
+                                                              22.52979
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 46",
+                                            "id":  "poi_46"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.045207,
+                                                              22.530372
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 47",
+                                            "id":  "poi_47"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.045966,
+                                                              22.531313
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 48",
+                                            "id":  "poi_48"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.046535,
+                                                              22.531114
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 49",
+                                            "id":  "poi_49"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.048778,
+                                                              22.531347
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 50",
+                                            "id":  "poi_50"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.049726,
+                                                              22.532551
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 51",
+                                            "id":  "poi_51"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.05539,
+                                                              22.537526
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 52",
+                                            "id":  "poi_52"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.057352,
+                                                              22.539694
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 53",
+                                            "id":  "poi_53"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.062717,
+                                                              22.541513
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 54",
+                                            "id":  "poi_54"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.068858,
+                                                              22.543194
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 55",
+                                            "id":  "poi_55"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.07225,
+                                                              22.548548
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 56",
+                                            "id":  "poi_56"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.075534,
+                                                              22.551824
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 57",
+                                            "id":  "poi_57"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.078394,
+                                                              22.554627
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 58",
+                                            "id":  "poi_58"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.078354,
+                                                              22.554672
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 59",
+                                            "id":  "poi_59"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.078961,
+                                                              22.559372
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 60",
+                                            "id":  "poi_60"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079797,
+                                                              22.560118
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 61",
+                                            "id":  "poi_61"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.079406,
+                                                              22.562466
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 62",
+                                            "id":  "poi_62"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.082907,
+                                                              22.561276
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 63",
+                                            "id":  "poi_63"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.084138,
+                                                              22.563345
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 64",
+                                            "id":  "poi_64"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.088391,
+                                                              22.564301
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 65",
+                                            "id":  "poi_65"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.091298,
+                                                              22.564149
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 66",
+                                            "id":  "poi_66"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.095908,
+                                                              22.565831
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 67",
+                                            "id":  "poi_67"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.100623,
+                                                              22.564798
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 68",
+                                            "id":  "poi_68"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.106911,
+                                                              22.566996
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 69",
+                                            "id":  "poi_69"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.109085,
+                                                              22.568979
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 70",
+                                            "id":  "poi_70"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112434,
+                                                              22.571322
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "文体",
+                                            "name":  "POI 71",
+                                            "id":  "poi_71"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112703,
+                                                              22.573432
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 72",
+                                            "id":  "poi_72"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112217,
+                                                              22.575169
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "办公",
+                                            "name":  "POI 73",
+                                            "id":  "poi_73"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.113822,
+                                                              22.577815
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "交通",
+                                            "name":  "POI 74",
+                                            "id":  "poi_74"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.112697,
+                                                              22.581783
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 75",
+                                            "id":  "poi_75"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.115133,
+                                                              22.584595
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "住宅",
+                                            "name":  "POI 76",
+                                            "id":  "poi_76"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.117433,
+                                                              22.587754
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "餐饮",
+                                            "name":  "POI 77",
+                                            "id":  "poi_77"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.119853,
+                                                              22.590912
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 78",
+                                            "id":  "poi_78"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.123779,
+                                                              22.591142
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "category":  "购物",
+                                            "name":  "POI 79",
+                                            "id":  "poi_79"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              114.129015,
+                                                              22.593374
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     }
+                 ],
+    "type":  "FeatureCollection"
+}

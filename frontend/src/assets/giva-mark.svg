@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="givaStroke" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55E6FF"/>
+      <stop offset="1" stop-color="#3E6BFF"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 6L54 18V42L32 56L10 42V18L32 6Z" stroke="url(#givaStroke)" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M32 14L46.5 22.5V37.5L32 46L17.5 37.5V22.5L32 14Z" stroke="url(#givaStroke)" stroke-opacity="0.9" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M20 26L28 21.5L36 25.8L44 21.2" stroke="url(#givaStroke)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24 34L31 38L39.5 33.5" stroke="url(#givaStroke)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31.5 28.5H49.5" stroke="url(#givaStroke)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 14L44 8.5" stroke="url(#givaStroke)" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M32 46L44.5 53.5" stroke="url(#givaStroke)" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="20" cy="26" r="2.5" fill="#5CEBFF"/>
+  <circle cx="31.5" cy="28.5" r="3" fill="#6AF1FF"/>
+  <circle cx="39.5" cy="33.5" r="2.4" fill="#63D8FF"/>
+  <circle cx="49.5" cy="28.5" r="3.2" fill="#5AB8FF"/>
+  <circle cx="44" cy="8.5" r="3.2" fill="#55E6FF"/>
+  <circle cx="44.5" cy="53.5" r="3.2" fill="#4D8FFF"/>
+</svg>
